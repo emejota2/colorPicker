@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/color-picker/static/css/main.8b6edee4.chunk.css",
-    "main.js": "/color-picker/static/js/main.3ff7dd45.chunk.js",
-    "main.js.map": "/color-picker/static/js/main.3ff7dd45.chunk.js.map",
-    "runtime-main.js": "/color-picker/static/js/runtime-main.f52aecdc.js",
-    "runtime-main.js.map": "/color-picker/static/js/runtime-main.f52aecdc.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/color-picker/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b42713c5.chunk.js": "/color-picker/static/js/2.b42713c5.chunk.js",
-    "static/js/2.b42713c5.chunk.js.map": "/color-picker/static/js/2.b42713c5.chunk.js.map",
-    "index.html": "/color-picker/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/color-picker/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.8b6edee4.chunk.css.map": "/color-picker/static/css/main.8b6edee4.chunk.css.map",
-    "static/js/2.b42713c5.chunk.js.LICENSE.txt": "/color-picker/static/js/2.b42713c5.chunk.js.LICENSE.txt"
+    "main.css": "/colorPicker/static/css/main.8b6edee4.chunk.css",
+    "main.js": "/colorPicker/static/js/main.3ff7dd45.chunk.js",
+    "main.js.map": "/colorPicker/static/js/main.3ff7dd45.chunk.js.map",
+    "runtime-main.js": "/colorPicker/static/js/runtime-main.9d426a34.js",
+    "runtime-main.js.map": "/colorPicker/static/js/runtime-main.9d426a34.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/colorPicker/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b42713c5.chunk.js": "/colorPicker/static/js/2.b42713c5.chunk.js",
+    "static/js/2.b42713c5.chunk.js.map": "/colorPicker/static/js/2.b42713c5.chunk.js.map",
+    "index.html": "/colorPicker/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/colorPicker/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.8b6edee4.chunk.css.map": "/colorPicker/static/css/main.8b6edee4.chunk.css.map",
+    "static/js/2.b42713c5.chunk.js.LICENSE.txt": "/colorPicker/static/js/2.b42713c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f52aecdc.js",
+    "static/js/runtime-main.9d426a34.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.b42713c5.chunk.js",
     "static/css/main.8b6edee4.chunk.css",
