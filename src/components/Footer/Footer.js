@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <>
         <footer className="container-fluid text-center" >
-            <p>©Hecho por programa desde tu casa</p>
+            <p>©Hecho por programar desde tu casa</p>
         </footer>
         </>
     
